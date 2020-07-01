@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gotter-react/static/css/main.0f761b9a.chunk.css",
+    "main.js": "/gotter-react/static/js/main.040f49d8.chunk.js",
+    "main.js.map": "/gotter-react/static/js/main.040f49d8.chunk.js.map",
+    "runtime-main.js": "/gotter-react/static/js/runtime-main.2515083d.js",
+    "runtime-main.js.map": "/gotter-react/static/js/runtime-main.2515083d.js.map",
+    "static/css/2.9f98d992.chunk.css": "/gotter-react/static/css/2.9f98d992.chunk.css",
+    "static/js/2.35ce80df.chunk.js": "/gotter-react/static/js/2.35ce80df.chunk.js",
+    "static/js/2.35ce80df.chunk.js.map": "/gotter-react/static/js/2.35ce80df.chunk.js.map",
+    "index.html": "/gotter-react/index.html",
+    "precache-manifest.ca83fb33d423aa484653e38708143461.js": "/gotter-react/precache-manifest.ca83fb33d423aa484653e38708143461.js",
+    "service-worker.js": "/gotter-react/service-worker.js",
+    "static/css/2.9f98d992.chunk.css.map": "/gotter-react/static/css/2.9f98d992.chunk.css.map",
+    "static/css/main.0f761b9a.chunk.css.map": "/gotter-react/static/css/main.0f761b9a.chunk.css.map",
+    "static/js/2.35ce80df.chunk.js.LICENSE.txt": "/gotter-react/static/js/2.35ce80df.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/gotter-react/static/media/logo.1769587d.png",
+    "static/media/logow.png": "/gotter-react/static/media/logow.41f65f75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2515083d.js",
+    "static/css/2.9f98d992.chunk.css",
+    "static/js/2.35ce80df.chunk.js",
+    "static/css/main.0f761b9a.chunk.css",
+    "static/js/main.040f49d8.chunk.js"
+  ]
+}
